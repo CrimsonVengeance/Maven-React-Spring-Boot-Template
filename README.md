@@ -1,5 +1,5 @@
 # Maven Spring Boot Back-End and React Front-End Template
-A Full-Stack template using a **Spring Boot** Back-End and a **React** Front-End that is installed and unit tested using Vite, integrated into a single maven-managed Project.
+A Full-Stack template using a **Spring Boot** Back-End and a **React** Front-End that is installed and unit tested using Vite, integrated into a single Maven-managed project.
 
 ## Usage
 The Template can be used in two ways:
@@ -107,7 +107,10 @@ To modify the React Configuration, you need to look at `src/main/frontend/vite.c
 
 This is where the proxy connection to the backend is located, if the Spring Boot server's address or port needs to be changed, you do that here.
 
-
+## Key Technologies
+- **Backend:** Spring Boot
+- **Frontend:** React, Vite
+- **Integration:** Maven
 
 ## References
 These are all the websites that I (remembered that I) used to synthesize my template, they were close to what I wanted, but they didn't quite work the way I hoped they would, which resulted in this template.
